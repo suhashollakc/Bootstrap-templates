@@ -1,6 +1,6 @@
 # COVID TRACKER- SAMPLE APPLICATION LANDING PAGE TEMPLATE
 
-Here are the screenshots of the template built using HTML,CSS and Bootstrap for styling.
+Here are the screenshots of the App Landing Page template built using HTML,CSS and Bootstrap.
 ### 1. HOME
 
 
